@@ -58,15 +58,15 @@ What differentiates my learning approach is a strong focus on understanding how 
 
 ---
 
-## 🌱 Currently Focusing On
+##  Currently Focusing On
 - Linux systems programming  
 - Low-level architecture concepts  
 - Operating systems internals and real-time behavior  
 
 ---
 
-## 📫 Contact
-- 📧 Email: ranarabee843@gmail.com  
+##  Contact
+-  Email: ranarabee843@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/rana-rabee-74bb95333
  
 
